@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KelioSharon
 - 👀 I’m interested in web and app devopment
-- 🌱 I’m currently learning Dart with Flutter
+- 🌱 I’m currently learning Dart with Flutter and Typescript
 - 💞️ I’m looking to collaborate on projects related to web and app development
 - 📫 How to reach me keliosharon@gmail.com
 - ⚡ Fun fact: I am a Model
